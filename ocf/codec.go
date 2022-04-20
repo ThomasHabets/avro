@@ -79,7 +79,7 @@ func (*DeflateCodec) Decode(b []byte) ([]byte, error) {
 func (*DeflateCodec) Encode(b []byte) []byte {
 	data := bytes.NewBuffer(make([]byte, 0, len(b)))
 
-	w, _ := flate.NewWriter(data, flate.DefaultCompression)
+	w, _ := flate.NewWriter(data, flate.BestCompression)
 	_, _ = w.Write(b)
 	_ = w.Close()
 

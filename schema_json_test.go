@@ -5,7 +5,7 @@ import (
 	"strconv"
 	"testing"
 
-	"github.com/hamba/avro"
+	"github.com/ThomasHabets/avro"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )

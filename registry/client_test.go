@@ -5,7 +5,7 @@ import (
 	"net/http/httptest"
 	"testing"
 
-	"github.com/hamba/avro/registry"
+	"github.com/ThomasHabets/avro/registry"
 	"github.com/stretchr/testify/assert"
 )
 

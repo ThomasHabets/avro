@@ -5,7 +5,7 @@ import (
 	"math/big"
 	"testing"
 
-	"github.com/hamba/avro"
+	"github.com/ThomasHabets/avro"
 	"github.com/stretchr/testify/assert"
 )
 

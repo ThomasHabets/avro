@@ -6,8 +6,8 @@ import (
 	"os"
 	"testing"
 
-	"github.com/hamba/avro"
-	"github.com/hamba/avro/ocf"
+	"github.com/ThomasHabets/avro"
+	"github.com/ThomasHabets/avro/ocf"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )

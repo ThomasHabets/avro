@@ -1,6 +1,6 @@
 package avro_test
 
-import "github.com/hamba/avro"
+import "github.com/ThomasHabets/avro"
 
 func ConfigTeardown() {
 	// Reset the caches

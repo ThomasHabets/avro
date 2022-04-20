@@ -10,7 +10,7 @@ import (
 	"strings"
 	"sync/atomic"
 
-	"github.com/hamba/avro/pkg/crc64"
+	"github.com/ThomasHabets/avro/pkg/crc64"
 	jsoniter "github.com/json-iterator/go"
 	"github.com/modern-go/concurrent"
 )

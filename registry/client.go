@@ -17,7 +17,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/hamba/avro"
+	"github.com/ThomasHabets/avro"
 	jsoniter "github.com/json-iterator/go"
 	"github.com/modern-go/concurrent"
 )

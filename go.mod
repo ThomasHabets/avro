@@ -1,4 +1,4 @@
-module github.com/hamba/avro
+module github.com/ThomasHabets/avro
 
 go 1.11
 
